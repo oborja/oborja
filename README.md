@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oborja
-- 👀 I’m interested in PHP developement (Magento 2 and Symfony)
-- 🌱 I’m currently learning Magento 2
+- 👀 I’m a senior PHP developer in Magento 2 and Symfony
+- 🌱 I’m currently learning Data engineering and AI data analysis and Agentic AI
 - 💞️ I’m looking to collaborate on PHP Libraries
 - 📫 How to reach me omarborja@outlook.com and https://www.linkedin.com/in/ombor/
 
